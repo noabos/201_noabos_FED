@@ -68,7 +68,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** Surface plane
 
-**Je opdracht:** New Fysic, https://www.cmd-amsterdam.nl/portfolio/newfysic-app/ , (passie project blok 4, jaar 1)
+**Je opdracht:** Nana - https://nana-asia.com/
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
