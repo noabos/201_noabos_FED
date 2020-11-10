@@ -62,6 +62,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
+<img src="images/breakdownsheet.png" width="375px" alt="breakdownsheet">
+
 ## Intake (week 1)
 
 **Je startniveau:** Blauw.
